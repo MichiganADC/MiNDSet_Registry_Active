@@ -16,7 +16,7 @@ import box_config
 client = box_config.get_authenticated_client(box_config.pathToConfigJson)
 
 # Define local file to upload
-local_file_dir = "."
+local_file_dir = "/home/airflow/scripts/MiNDSet_Registry_Active"
 local_file_path = local_file_dir + "/MiNDSet_Registry_Active.csv"
 
 # Define Box folder ID and file ID
