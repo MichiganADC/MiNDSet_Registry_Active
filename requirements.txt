@@ -1,0 +1,3 @@
+pandas
+coconut
+boxsdk[jwt]

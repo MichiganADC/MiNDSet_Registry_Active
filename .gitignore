@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+
+venv/*
+__pycache__/*
+
+*.csv
+*.xls*
+*.pdf
+*.doc*
+*.coco
+
+config.py
+helpers.py
